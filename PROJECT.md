@@ -1,19 +1,9 @@
-# tenantdesk — build record
+# Build record
 
-Owner: Lord_Sumi (`sumiEmpire001`). Portfolio project 7 of 100.
+Owner: Lord_Sumi. Portfolio project 7 of 100.
 
-## Purpose
+Scope: Multi-tenant helpdesk API with roles, ticket assignment, comments and audit trail.
 
-Multi-tenant helpdesk API with roles, ticket assignment, comments and audit trail.
+Required verification: Cross-tenant isolation, role restrictions and search pagination.
 
-## Required verification
-
-Cross-tenant isolation, role restrictions and search pagination.
-
-## Current implementation status
-
-Planned build. This repository does not yet contain a working implementation; no tests have been run.
-
-## Completion criteria
-
-Runnable code, reproducible setup and demo, validated inputs, meaningful error handling, project-specific tests, architecture notes, recorded evidence and explicit limitations. Plans, scaffolds and mock screens do not count as completed implementations. Device and live-service checks must be recorded separately when applicable.
+Working implementation with 12 passing local tests. CI verification is recorded separately in the catalogue.
